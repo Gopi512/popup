@@ -1,0 +1,143 @@
+body{
+    background-color: white;
+    color: black;
+}
+.mydark{
+    background-color: black;
+    color: white;
+}
+
+#Brand{
+
+    width: 100%;
+    height: 50px;
+    background-color: #0f1111;
+}
+#slider{
+    width: 100%;
+    height: 600px;
+}
+#fnav{
+    color: blueviolet;
+}
+#BrandIcon{
+
+    width: 10%;
+    height: 70px;
+    
+
+    
+
+    
+
+}
+#amazonpic{
+    margin-left:  10%;
+    width: 100%;
+    height: 70%;
+    
+  
+}
+.prodtile1{
+    
+    width: 20%;
+    height: 400px;
+    float: left;
+    margin-left: 4%;
+    margin-top: 5%;
+    box-shadow: 10px 20px 10px rgb(209, 11, 116);
+}
+.prodpic{
+    width: 100%;
+    height: 65%;
+    
+}
+#imagesize{
+    width: 200px;
+    height:259px;
+    margin-left: 10%;
+
+}
+.proddetails{
+    margin: 4%;
+    
+}
+#endcontent{
+    border: 2px solid red;
+    width: 100%;
+    height: 100px;
+    float: left;
+    margin-top: 10%;
+    background-color: #333333;
+}
+.details{
+    border: 2px solid red;
+    height: 200px;
+    width: 15%;
+    margin-left: 50px;
+    margin-top: 10%;
+    float: left;
+    font-weight: bold;
+    color: white;
+}
+.dettext{
+    color: white;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: normal;
+    
+}
+#idn{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.links{
+    color: white;
+    font-weight: bold;
+    margin-left: 130px;
+}
+#theme-btn {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #596AFF;
+    margin-left: 1200px;
+    margin-top: 1%;
+    
+  }
+  #theme-btn:hover {
+    color: #BB86FC;
+  }
+  .changeTheme {
+    background: #1D1E22;
+    color: #eee;
+    
+  }
+  .coupon{
+    height:300px;
+    width:400px;
+    background-color:white;
+    position:absolute;
+    margin-top:-40%;
+    margin-left:38%;
+    z-index: 100;
+    display:none
+}
+#offimage{
+  width: 100%;
+  height: 50%;
+
+}
+#src{
+  width: 300px;
+  height: 141px;
+  margin-left: 10%;
+}
+#offtext{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: bold;
+  margin-left: 20%;
+  color:deeppink;
+  font-weight: bold;
+}
